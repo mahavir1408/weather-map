@@ -1,7 +1,7 @@
 module.exports = function () {
   var data = {};
   
-  //Print error message (with red color)
+  //Log error message
   const logError = function (error) {
     const message = error.message;
     console.log(message);
