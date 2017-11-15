@@ -6,15 +6,18 @@ Prerequisite
 1. node-8.6.0
 2. npm-5.5.1
 
-Installation
+Installation and Accessibility
 ----
-1. Download the zip of this repository or get the clone this repository
-2. Switch into the application directory (i.e.: weather-app)
+1. Download the [zip](https://github.com/mahavir1408/weather-map/archive/master.zip) of this repository or get the clone this repository
+2. Switch into the application directory (i.e.: weather-app or weather-app-master)
 3. Run the below command to install the dependent node modules.
 ```shell
 npm install
 ```
 4. Run the below command to start the application (i.e.: node server)
+```shell
+npm start
+```
 5. Access the application through browser using the link [http://localhost:3000/](http://localhost:3000/).
 
 TODO
