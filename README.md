@@ -26,3 +26,4 @@ TODO
 - Modify the code to use promises (ES2016 Standard) wherever required.
 - Code changes to allow user to set the location. Currently, the location is hard coded.
 - Automating the unit test.
+- Making the UI attractive.
