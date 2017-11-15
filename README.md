@@ -22,6 +22,7 @@ npm start
 
 TODO
 ----
-- Code changes to allow user to set the location. Currently, the location is hard coded.
 - Write unit test for the source code.
-- Automating the unit test
+- Modify the code to use promises (ES2016 Standard) wherever required.
+- Code changes to allow user to set the location. Currently, the location is hard coded.
+- Automating the unit test.
