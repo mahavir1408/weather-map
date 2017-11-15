@@ -22,6 +22,6 @@ npm start
 
 TODO
 ----
-Allow user to set the location. Currently, the location is hard coded.
-Writing unit tests.
-Automating the build process
+- Code changes to allow user to set the location. Currently, the location is hard coded.
+- Write unit test for the source code.
+- Automating the unit test
